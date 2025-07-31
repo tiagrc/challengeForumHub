@@ -43,9 +43,4 @@ A autenticação é baseada em JWT:
 
 ---
 
-## 📦 Instalação e uso
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/forum-hub.git
-   cd forum-hub
+# Obrigado por visualizar este projeto. 😁
